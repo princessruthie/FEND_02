@@ -1,1 +1,28 @@
 /* add your CSS here */
+#interesting-fact{
+  font-style: italic;
+}
+.list-items{
+  font-weight: bold;
+}
+ul{
+  list-style-type: none;
+  padding-left: 0px
+}
+figure{
+  margin-left: 0;
+}
+figcaption{
+  font-size: 10px;
+}
+.card, .animal-info{
+  border-width: thin;
+  border-style: solid;
+  border-color: gray;
+  padding: 8px;
+  border-radius: 2px;
+}
+.card{
+  padding: 8px;
+  width: 300px
+}
