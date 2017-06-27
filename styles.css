@@ -1,4 +1,3 @@
-/* add your CSS here */
 #interesting-fact{
   font-style: italic;
 }
@@ -18,11 +17,15 @@ figcaption{
 .card, .animal-info{
   border-width: thin;
   border-style: solid;
-  border-color: gray;
+  border-color: #c6bba4;
   padding: 8px;
   border-radius: 2px;
 }
 .card{
   padding: 8px;
-  width: 300px
+  width: 300px;
+  box-shadow: 4px 4px #c6bba4;
+}
+h3{
+  color: #6c5433;
 }
